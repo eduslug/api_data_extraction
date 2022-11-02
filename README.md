@@ -4,7 +4,7 @@
 
 ## 🖊️APi Pode ser acessada atravez do link http://alemdocodigo.herokuapp.com/list_posts
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+💻Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Axios](https://axios-http.com/)
 - [React](https://pt-br.reactjs.org/)
