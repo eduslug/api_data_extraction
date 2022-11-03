@@ -47,4 +47,4 @@ Em vez disso, ele copiará todos os arquivos de configuração e as dependência
 
 Você não precisa usar `eject`. O conjunto de recursos com curadoria é adequado para implantações pequenas e médias, e você não deve se sentir obrigado a usar esse recurso. No entanto, entendemos que essa ferramenta não seria útil se você não pudesse personalizá-la quando estiver pronto para isso.
 
-Feito com 💜 by Eduardo 👋🏻 [Entre em contato ao clicar aqui 🚀😊](https://www.linkedin.com/in/eduardo-irineu-dos-santos-134375220/).
+Feito com 💜 by Eduardo [Entre em contato ao clicar aqui 🚀😊](https://www.linkedin.com/in/eduardo-irineu-dos-santos-134375220/).
